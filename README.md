@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dikisetiawan81@gmail.com**
 
-- 📄 Know about my experiences [htpps://dhikicheeks.github.io](htpps://dhikicheeks.github.io)
+- 📄 Know about my experiences [https://dhikicheeks.github.io](https://dhikicheeks.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
