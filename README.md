@@ -8,10 +8,10 @@
     <b>Hello World, I'm Diki Candra Setiawan </b>
   <br>
   <!-- Social Media -->
-    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://twitter.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/35/twitter.png?1643514044"  alt="dhikics"  height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://twitter.com/dhikicheeks"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/35/twitter.png?1643514044"  alt="dhikicheeks"  height="20"  width="20"  /></a>
     <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://linkedin.com/in/dikicandrasetiawan"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111"  alt="dikicandrasetiawan"  height="20"  width="20"  /></a>
-    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://facebook.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/34/facebook.png?1643514044"  alt="dhikics"  height="20"  width="20"  /></a>
-    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://instagram.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104"  alt="dhikics" height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://facebook.com/dhikicheeks"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/34/facebook.png?1643514044"  alt="dhikicheeks"  height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://instagram.com/dhikicheeks"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104"  alt="dhikicheeks" height="20"  width="20"  /></a>
 </h1>
 
 <img align="right" src="https://avatars.githubusercontent.com/u/75842751?s=400&u=8e636b1e3fbca71260dd13f80cdf14a82e3f1a56&v=4" width="230">
