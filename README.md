@@ -1,26 +1,90 @@
-<h1 align="center">Hi 👋, I'm Diki Candra Setiawan</h1>
-<h3 align="center">A passionate website and mobile apps developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhikicheeks&label=Profile%20views&color=0e75b6&style=flat" alt="dhikicheeks" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhikicheeks" alt="dhikicheeks" /></a> </p>
-
-- 📫 How to reach me **dikisetiawan81@gmail.com**
-
-- 📄 Know about my experiences [https://dhikicheeks.github.io](https://dhikicheeks.github.io)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhikics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhikics" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dikicandrasetiawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikicandrasetiawan" height="30" width="40" /></a>
-<a href="https://fb.com/diki.nbcnrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diki.nbcnrj" height="30" width="40" /></a>
-<a href="https://instagram.com/diki.setiawan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diki.setiawan__" height="30" width="40" /></a>
+<!-- Wave Emoji -->
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515297/13171/meow_wave.gif?1643515297" width="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h1 align="center">
+  <!-- Name -->
+    <b>Hello World, I'm Diki Candra Setiawan </b>
+  <br>
+  <!-- Social Media -->
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://twitter.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/35/twitter.png?1643514044"  alt="dhikics"  height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://linkedin.com/in/dikicandrasetiawan"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111"  alt="dikicandrasetiawan"  height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://facebook.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514044/34/facebook.png?1643514044"  alt="dhikics"  height="20"  width="20"  /></a>
+    <a style="margin: 0px 5px;padding-bottom: 5px;" href="https://instagram.com/dhikics"  target="blank"><img  align="center"  src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104"  alt="dhikics" height="20"  width="20"  /></a>
+</h1>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dhikicheeks"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dhikicheeks" /></a></p><br><br>
+<img align="right" src="https://avatars.githubusercontent.com/u/75842751?s=400&u=8e636b1e3fbca71260dd13f80cdf14a82e3f1a56&v=4" width="230">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhikicheeks&show_icons=true&locale=en" alt="dhikicheeks" /></p>
+<!-- Description -->
+<p>
+  Yes, my name is <b>Diki Candra Setiawan</b> aka <b>DhikiCheeks</b> as a nickname. I'm from Indonesia. <br>
+  I'm a Programming Code Enthusiast since 2013, have the ability to develop websites and mobile apps.
+</p>
+
+<!-- Profile -->
+- 📫 How to reach me **dhikicheeks@gmail.com**
+- 📄 Know about my experiences **[https://dhikicheeks.github.io](https://dhikicheeks.github.io)**
+<br>
+<br>
+
+<!-- Akills -->
+## Skills
+* <img src="https://emojis.slackmojis.com/emojis/images/1643516721/27681/script_code.gif?1643516721" width="18"/> PHP, JavaScript, Dart, Python, C++
+* <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="18"/> Laravel, NuxtJs, Flutter, React Native
+* <img src="https://emojis.slackmojis.com/emojis/images/1643512451/51311/monitor.gif?1643512451" width="18"/> CSS, Bootstrap, Tailwind
+* <img src="https://emojis.slackmojis.com/emojis/images/1643510897/38015/data_party.gif?1643510897" width="18"/> MySQL, SQL
+* <img src="https://emojis.slackmojis.com/emojis/images/1643509442/48733/vscode-party.gif?1643509442" width="18"/> VSCode, GitHub Desktop, Android Studio, XCode, SquelAce, Figma
+* <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png?1643514598" width="18"/> A lot more ~
+<br>
+<br>
+
+<!-- Repository -->
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=dhikicheeks&repo=flutter_ml_ocr">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=dhikicheeks&repo=flutter_ml_ocr">
+</p> -->
+
+
+## Trophy and Statistics
+<!-- Visitor -->
+<p align="right">
+  <img  src="https://komarev.com/ghpvc/?username=dhikicheeks&label=Profile%20views&color=0e75b6&style=flat"  alt="dhikicheeks"  />
+</p>
+
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=dhikicheeks&&row=1&column=5&margin-w=15&no-bg=true&no-frame=true&theme=algolia"  alt="dhikicheeks"  /></a>
+</p>
+
+<!-- Statistics -->
+<p align="center">
+  <!-- Most Languages -->
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikicheeks&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8&hide=scss,ruby,shell">
+  <br>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhikicheeks&theme=algolia&hide_border=true&background=FFFFFF00&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
+  <br>
+  <br>
+</p>
+  
+<!-- Buy Me Coffe -->
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dhikicheeks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="dhikicheeks"/></a>
+  <br>
+</p>
+
+
+
+<!-- Thank for several third parties, including:
+  1. ryo-ma, a source of inspiration and a widget for trophies
+  2. slackmojis, a source of emoji assets
+  3. Komarev, widget for visitor counter
+  4. vercel, a programming language statistics widget
+  5. herokuapp, contribution streak statistics widget
+
+  🫶🫶🫶
+-->
