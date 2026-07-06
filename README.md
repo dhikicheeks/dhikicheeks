@@ -24,67 +24,48 @@
 
 <!-- Profile -->
 - 📫 How to reach me **dhikicheeks@gmail.com**
-- 📄 Know about my experiences **[https://dhikicheeks.github.io](https://dhikicheeks.github.io)**
+- 📄 Know about my experiences **[https://yoixo.my.id](https://yoixo.my.id)**
 <br>
 <br>
-
-<!-- Akills -->
-## Skills
-* <img src="https://emojis.slackmojis.com/emojis/images/1643516721/27681/script_code.gif?1643516721" width="18"/> PHP, JavaScript, Dart, Python, C++
-* <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="18"/> Laravel, NuxtJs, Flutter, React Native
-* <img src="https://emojis.slackmojis.com/emojis/images/1643512451/51311/monitor.gif?1643512451" width="18"/> CSS, Bootstrap, Tailwind
-* <img src="https://emojis.slackmojis.com/emojis/images/1643510897/38015/data_party.gif?1643510897" width="18"/> MySQL, SQL
-* <img src="https://emojis.slackmojis.com/emojis/images/1643509442/48733/vscode-party.gif?1643509442" width="18"/> VSCode, GitHub Desktop, Android Studio, XCode, SquelAce, Figma
-* <img src="https://emojis.slackmojis.com/emojis/images/1643514598/6016/meow_coffee.png?1643514598" width="18"/> A lot more ~
-<br>
-<br>
-
-<!-- Repository -->
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=dhikicheeks&repo=flutter_ml_ocr">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=dhikicheeks&repo=flutter_ml_ocr">
-</p> -->
-
 
 ## Trophy and Statistics
 <!-- Visitor -->
 <p align="right">
-  <img  src="https://komarev.com/ghpvc/?username=dhikicheeks&label=Profile%20views&color=0e75b6&style=flat"  alt="dhikicheeks"  />
+  <img src="https://yoixo-gitstats.vercel.app/api/github-stats/visitor?label=Profile+views" alt="dhikicheeks"/>
 </p>
 
 <!-- Trophy -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=dhikicheeks&&row=1&column=5&margin-w=15&no-bg=true&no-frame=true&theme=algolia"  alt="dhikicheeks"  /></a>
+  <img src="https://yoixo-gitstats.vercel.app/api/github-stats/trophy?username=dhikicheeks" alt="dhikicheeks"/>
 </p>
 
 <!-- Statistics -->
 <p align="center">
   <!-- Most Languages -->
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikicheeks&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=8&hide=scss,ruby,shell">
+  <img height="50%" width="auto" src="https://yoixo-gitstats.vercel.app/api/github-stats/top-langs?username=dhikicheeks" alt="dhikicheeks">
   <br>
 </p>
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhikicheeks&theme=algolia&hide_border=true&background=FFFFFF00&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat">
+  <img src="https://yoixo-gitstats.vercel.app/api/github-stats/streak?username=dhikicheeks" alt="dhikicheeks">
   <br>
   <br>
 </p>
-  
-<!-- Buy Me Coffe -->
+
+<!-- Buy Me Coffee -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/dhikicheeks"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="dhikicheeks"/></a>
   <br>
 </p>
 
-
-
 <!-- Thank for several third parties, including:
-  1. ryo-ma, a source of inspiration and a widget for trophies
-  2. slackmojis, a source of emoji assets
-  3. Komarev, widget for visitor counter
-  4. vercel, a programming language statistics widget
-  5. herokuapp, contribution streak statistics widget
+  1. slackmojis, a source of emoji assets
+  2. Self-hosted GitHub Stats Widget (yoixo-gitstats.vercel.app)
+     - Visitor counter
+     - Trophy widget
+     - Top languages widget
+     - Streak stats widget
 
   🫶🫶🫶
 -->
